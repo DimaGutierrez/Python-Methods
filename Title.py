@@ -1,3 +1,4 @@
+#metod title & istitle
 first_name = input("nombre: ")
 last_name = input("apellido: ")
 full_name = f"{first_name} {last_name}"
