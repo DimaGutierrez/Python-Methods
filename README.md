@@ -1,7 +1,7 @@
 # Python
 Commands, examples, methods and more... This repository will be updated weekly
 </br>
-Команды, примеры, методы и многое другое.
-Этот репозиторий будет обновляться еженедельно
+
+![https://github.com/dimagutierrez](https://raw.githubusercontent.com/DimaGutierrez/Python-Methods/main/python.png)
 </br>
 enjoy!
